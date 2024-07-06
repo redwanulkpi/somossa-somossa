@@ -1,8 +1,10 @@
-<div>
-h1{
-    color: blue;
-    p{
-        padding: 40px;
+div{
+    h3{
+        color: #000;
+        text-align: center;
     }
-</div>
+    p{
+        background-color: aqua;
+        padding: 100px 100px 50px 50px
+    }
 }
